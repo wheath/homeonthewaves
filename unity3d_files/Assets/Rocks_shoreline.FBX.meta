@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: b3a370d14d06a4242b19e3a9189d33e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: rock
+    100002: rock001
+    100004: rock002
+    100006: rock003
+    100008: rock004
+    100010: rock005
+    100012: rock006
+    100014: rock007
+    100016: RockFormation1_
+    100018: RockFormation1_001
+    100020: RockFormation1_002
+    100022: RockFormation1_003
+    100024: RockFormation1_004
+    100026: RockFormation2_
+    100028: RockFormation2_001
+    100030: RockFormation2_002
+    100032: RockFormation3_
+    100034: RockFormation3_001
+    100036: RockFormation3_002
+    100038: //RootNode
+    400000: rock
+    400002: rock001
+    400004: rock002
+    400006: rock003
+    400008: rock004
+    400010: rock005
+    400012: rock006
+    400014: rock007
+    400016: RockFormation1_
+    400018: RockFormation1_001
+    400020: RockFormation1_002
+    400022: RockFormation1_003
+    400024: RockFormation1_004
+    400026: RockFormation2_
+    400028: RockFormation2_001
+    400030: RockFormation2_002
+    400032: RockFormation3_
+    400034: RockFormation3_001
+    400036: RockFormation3_002
+    400038: //RootNode
+    2100000: 02 - Default
+    2300000: rock
+    2300002: rock001
+    2300004: rock002
+    2300006: rock003
+    2300008: rock004
+    2300010: rock005
+    2300012: rock006
+    2300014: rock007
+    2300016: RockFormation1_
+    2300018: RockFormation1_001
+    2300020: RockFormation1_002
+    2300022: RockFormation1_003
+    2300024: RockFormation1_004
+    2300026: RockFormation2_
+    2300028: RockFormation2_001
+    2300030: RockFormation2_002
+    2300032: RockFormation3_
+    2300034: RockFormation3_001
+    2300036: RockFormation3_002
+    3300000: rock
+    3300002: rock001
+    3300004: rock002
+    3300006: rock003
+    3300008: rock004
+    3300010: rock005
+    3300012: rock006
+    3300014: rock007
+    3300016: RockFormation1_
+    3300018: RockFormation1_001
+    3300020: RockFormation1_002
+    3300022: RockFormation1_003
+    3300024: RockFormation1_004
+    3300026: RockFormation2_
+    3300028: RockFormation2_001
+    3300030: RockFormation2_002
+    3300032: RockFormation3_
+    3300034: RockFormation3_001
+    3300036: RockFormation3_002
+    4300000: rock
+    4300002: rock001
+    4300004: rock002
+    4300006: RockFormation1_
+    4300008: RockFormation2_
+    4300010: RockFormation3_
+    4300012: rock003
+    4300014: RockFormation2_001
+    4300016: RockFormation1_001
+    4300018: RockFormation2_002
+    4300020: rock004
+    4300022: RockFormation1_002
+    4300024: RockFormation3_001
+    4300026: rock005
+    4300028: rock006
+    4300030: RockFormation1_003
+    4300032: RockFormation3_002
+    4300034: RockFormation1_004
+    4300036: rock007
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
