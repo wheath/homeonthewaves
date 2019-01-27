@@ -8,6 +8,7 @@ public class Victory : MonoBehaviour
     public GameObject theBoat;
     public Canvas winorlose;
     public Material Material;
+    public AudioSource audioSource;
 
     // Start is called before the first frame update
     void Start()
@@ -26,8 +27,9 @@ public class Victory : MonoBehaviour
         if(other.gameObject == theBoat)
         {
             Debug.Log("_dbg Victory!");
-        //winorlose.en
-        GameObject water = GameObject.Find("Water4Advanced");
+            audioSource.Stop();
+            //winorlose.SetActive(true);
+            GameObject water = GameObject.Find("Water4Advanced");
         WaterBase wat = water.GetComponent<WaterBase>();
             //Material.SetVector("_GAmplitude", Material.GetVector("_GAmplitude") / 2);
             Material.SetVector("_GAmplitude", new Vector4(0, 0, 0, 0));
